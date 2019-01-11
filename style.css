@@ -40,6 +40,10 @@ body {
     top:0px;
 }
 
+#cast a {
+    color: #fdb413;
+}
+
 #cast a:hover {
     border-bottom: 2px solid green;
 }
